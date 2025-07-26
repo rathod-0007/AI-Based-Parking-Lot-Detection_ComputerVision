@@ -2,7 +2,7 @@
 
 An AI-based real-time parking space detection system that leverages **Computer Vision** and a **custom-trained SVC classifier** to monitor and identify available parking slots from live video streams. Ideal for deployment in smart cities, malls, and autonomous surveillance systems.
 
-![Parking Detection](https://github.com/user-attachments/assets/a76854b9-c656-483f-90a3-cb9fd5233d31)
+https://github.com/user-attachments/assets/643c8ae0-23e0-447d-974b-f391919f4470
 
 ---
 
